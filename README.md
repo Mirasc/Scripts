@@ -1,2 +1,1 @@
-# test
-# Loon-Scripts
+# Only for personal use
