@@ -1,0 +1,12 @@
+{
+    "name": "Sunert tasks",
+    "task": [
+      {
+        "config": "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=true"
+      },
+      {
+        "config": "5 9 * * * https://raw.githubusercontent.com/Sunert/Sunert/master/Task/kuaishou.js, tag=快手极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png, enabled=true"
+      }
+    ],
+    "description": "https://github.com/Sunert/Sunert"
+  }
