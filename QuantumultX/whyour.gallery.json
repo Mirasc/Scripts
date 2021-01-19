@@ -47,5 +47,5 @@
         "config": "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=🐶京小超领蓝币, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"
       }
     ],
-    "description": "https://github.com/whyour/hundun"
+    "description": "来源:https://github.com/whyour/hundun;整理:https://github.com/Mirasc/Scripts"
   }
