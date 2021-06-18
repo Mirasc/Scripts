@@ -2,19 +2,19 @@
     "name": "JDDJ tasks",
     "task": [
       {
-        "config": "10 0,3,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js, enabled=true"
+        "config": "10 0,3,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js, tag=果园任务, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png, enabled=true"
       },
       {
-        "config": "*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js, enabled=true"
+        "config": "*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js, tag=果园水车, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png, enabled=true"
       },
       {
-        "config": "10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js, enabled=true"
+        "config": "10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js, tag=鲜豆任务, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png, enabled=true"
       },
       {
-        "config": "10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js, enabled=true"
+        "config": "10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js, tag=鲜豆庄园, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png, enabled=true"
       },
       {
-        "config": "*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js, enabled=true"
+        "config": "*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js, tag=庄园领水滴, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png, enabled=true"
       }
     ],
     "description": "来源:https://github.com/passerby-b/JDDJ.git;整理:https://github.com/Mirasc/Scripts"
