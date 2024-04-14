@@ -15,7 +15,7 @@
        {"config":"11 0,7 * * * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/encrypted/jd_jxlhb.js, tag=京喜领88元红包, enabled=true"},
        {"config":"1 1 1 1 1 https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_20bean.js, tag=一次性-加购关注20豆, enabled=true"},
        {"config":"3 12 3 12 * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_AutoEval.js, tag=带图评价, enabled=true"},
-       {"config":"45 6,16 * * * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_XinFarm_help.js, tag=新东东农场助力, enabled=true},
+       {"config":"45 6,16 * * * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_XinFarm_help.js, tag=新东东农场助力, enabled=true"},
        {"config":"15 0,16 * * * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_beanSign.js, tag=领京豆签到, enabled=true"},
        {"config":"1 1 1 1 * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_bean_home.js, tag=升级赚京豆, enabled=true"},
        {"config":"2 20 14 12 * https://raw.githubusercontent.com/shufflewzc/faker3/raw/main/jd_bean_info.js, tag=京豆详情统计, enabled=true"},
