@@ -122,7 +122,6 @@ rule-providers:
 # 分流Policy 
 rules:
   - RULE-SET,Ad,🆎 AdBlock
-  - RULE-SET,OpenAi,🤖 OpenAi
   - RULE-SET,BiliBili,📺 哔哩哔哩
   - RULE-SET,Bahamut,📺 哔哩哔哩
   - RULE-SET,GlobalMedia,🎬 国际媒体
